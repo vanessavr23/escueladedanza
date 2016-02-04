@@ -1,0 +1,179 @@
+header{
+	width: 100%;
+	padding:18px 0 0 0;
+}
+
+ul{
+	list-style: none;
+	padding: 0 30%;
+}
+
+li{
+	float: left;
+	padding: 4% 7%;
+}
+
+.imagen{
+	background-image: url(../img/dance_1.jpg);
+	width: 100%;
+	background-position: top;
+	height: 350px;
+}
+
+.estudio{
+	font-size: 64px;
+}
+
+.letras{
+	padding: 3% 7%;
+}
+
+.letra{
+	padding: 0 70px 0 0;
+}
+
+.boton{
+	padding:10px 25px;
+	margin: 20px 0;
+	border: none;
+	background: #030E1C;
+}
+
+.trayectoria{
+	background-image: url(../img/textura_2.jpg);
+	width: 100%;
+	height: 320px;
+}
+
+.decoracion{
+	width: 10%;
+	height: 20%;
+	object-fit: cover;
+	position: relative;
+	top: -30px;
+}
+
+.trayec{
+	padding: 5% 15%;
+}
+
+.cua{
+	width: 50%;
+	padding: 0;
+	margin: 2% 25% 0;
+}
+
+.botom{
+	padding:20px 60px;
+	border: none;
+	background: #192951;
+	border-radius: 5px;
+	position: relative;
+	bottom: 50px;
+}
+
+.boazul{
+	margin: 0 30%;
+}
+
+.chino{
+	background-image: url(../img/instructor_4.jpg);
+	width: 50%;
+	height: 280px;
+	border: 1px solid #192951;
+}
+
+.chica{
+	background-image: url(../img/profesor_9.jpg);
+	width: 50%;
+	height: 280px;
+	border: 1px solid #192951;
+}
+
+.boto{
+	position: absolute;
+	left: 37%;
+	bottom: -403px;
+	padding:20px 100px;
+	border: none;
+	background: #192951;
+}
+
+.danza{
+	font-size: 36px;
+	padding: 8% 15%;
+}
+
+.cua{
+	width: 50%;
+	padding: 0;
+	margin: 2% 25% 0;
+}
+
+.azul{
+	background-color: #192951;
+	width: 100%;
+	height: 360px;
+}
+
+.chico{
+	font-size: 13px;
+	padding: 10% 20% 6% 10%;
+}
+
+.visi{
+	padding: 0 20% 0 10%;
+}
+
+.chic{
+	font-size: 13px;
+	padding: 0 20% 0 10%;
+}
+
+.mapa{
+	padding: 3%;
+}
+
+.cuestion{
+	background-image: url(../img/shoes_1.jpg);
+	width: 100%;
+	height: 435px;
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+.contac{
+	padding: 8% 20% 4%;
+}
+
+input
+{
+    padding: 5px 5px 5px 25px;
+    margin: 2% 20% 0 20%;
+    border: 1px solid #E0DDDD;
+    width: 70%;
+}
+
+.mensaje{
+	height: 100px;
+}
+
+.botone{
+	width: 70%;
+	margin:  2% 20% 0 20%;
+	padding:20px 100px;
+	border: none;
+	background: #192951;
+	border-radius: 5px;
+}
+
+.pie{
+	background-color: #192951;
+	width: 100%;
+	height: 50px;
+}
+
+.derecho{
+	font-size: 12px;
+	padding: 1.5% 3%;
+}

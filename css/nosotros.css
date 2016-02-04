@@ -1,0 +1,130 @@
+header{
+	width: 100%;
+	padding:18px 0 0 0;
+}
+
+ul{
+	list-style: none;
+	padding: 0 30%;
+}
+
+li{
+	float: left;
+	padding: 4% 7%;
+}
+
+.imagen{
+	background-image: url(../img/dance_7.jpg);
+	width: 130%;
+	height: 380px;
+}
+
+.caja{
+	width: 30%;
+	padding: 2% 3%;
+	height: 200px;
+	margin: 5% 22%;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.trayectoria, .frase{
+	background-image: url(../img/cubes.png);
+	width: 100%;
+	height: 320px;
+}
+
+.grupo{
+	padding: 5% 20%;
+}
+
+.pilar{
+	width: 25%;
+	height: 200px;
+	margin: 0 4%;
+	float: left;
+}
+
+.pili{
+	border-bottom: solid  rgb(83, 88, 95) 1px;
+	padding: 10px;
+}
+
+.lor{
+	padding: 10px 0;
+}
+
+.inst{
+	font-size: 38px;
+	padding:20px;
+}
+
+.blog{
+	width: 250px;
+	height: 180px;
+	object-fit: cover;
+	padding: 10px;
+}
+
+.bloque{
+	padding:0;
+	width: 100%;
+	margin: 2% 10%;
+}
+
+.rojo{
+	width: 20%;
+    float: left;
+}
+
+.titulo{
+	padding: 10px 0;
+}
+
+.otra{
+	font-size: 40px;
+	padding: 10% 15%;
+}
+
+.cuestion{
+	background-image: url(../img/shoes_1.jpg);
+	width: 100%;
+	height: 435px;
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+.contac{
+	padding: 8% 20% 4%;
+}
+
+input
+{
+    padding: 5px 5px 5px 25px;
+    margin: 2% 20% 0 20%;
+    border: 1px solid #E0DDDD;
+    width: 70%;
+}
+
+.mensaje{
+	height: 100px;
+}
+
+.botone{
+	width: 70%;
+	margin:  2% 20% 0 20%;
+	padding:20px 100px;
+	border: none;
+	background: #192951;
+	border-radius: 5px;
+}
+
+.pie{
+	background-color: #192951;
+	width: 100%;
+	height: 50px;
+}
+
+.derecho{
+	font-size: 12px;
+	padding: 1.5% 3%;
+}
